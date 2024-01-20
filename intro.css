@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+h1{
+    padding-left: 90px;
+}
+h2{
+    padding-left: 70px;
+}
+.image{
+    height: 40px;
+    width: 20px;
+    padding-left: 6%;
+
+}
