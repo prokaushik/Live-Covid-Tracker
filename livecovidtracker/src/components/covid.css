@@ -32,7 +32,7 @@ ul{
 .card:hover{
     border: 3px solid  #385170;
     font-weight: bolder;
-    background-color: rgb(2, 146, 146);
+    background-color: rgb(76, 181, 181);
 }
 
 .card span{
